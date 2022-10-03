@@ -1,2 +1,2 @@
 # Unity_2D_Game
-Game using C#
+A Game made in unity using C#
